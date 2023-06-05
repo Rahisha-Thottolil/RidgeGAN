@@ -14,5 +14,4 @@ Landscape structures of real and generated cities are measured in terms of Human
 
 We assess the relations between two important features of urban forms (human settlement and transportation system) and build a KRR model to predict the transportation index, namely network density and finally, the proposed hybrid model framework can predict the road network density on a given urban pattern for the urban universes generated in the first step.
 
-
-![Part3_4](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/da42063b-8914-4d74-8333-73b920daa1d3)
+![Part3_4](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/7d29c85c-2e23-4139-a23d-d53b26bdb076)
