@@ -11,3 +11,8 @@ First, we apply CityGAN, an unsupervised learning model to generate small and me
 
 Landscape structures of real and generated cities are measured in terms of Human Settlement Indices (HSI) using spatial landscape metrics. 
 ![HSI](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/8571ed3b-df40-439e-b955-e7b56bb9825c)
+
+We assess the relations between two important features of urban forms (human settlement and transportation system) and build a KRR model to predict the transportation index, namely network density and finally, the proposed hybrid model framework can predict the road network density on a given urban pattern for the urban universes generated in the first step.
+
+
+![Part3_4](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/da42063b-8914-4d74-8333-73b920daa1d3)
