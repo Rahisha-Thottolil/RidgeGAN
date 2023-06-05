@@ -4,7 +4,7 @@ In this study, we propose a hybrid model: RidgeGAN, to predict the transportatio
 
 ![HSIandTI](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/0cdbe943-337b-4239-a895-01ef52593c18)
 
-In this section, we demonstrate the components of the model used in the hybrid framework:
+Here, we demonstrate the components of the model used in the hybrid framework:
 First, we apply CityGAN, an unsupervised learning model to generate small and medium-sized Indian cities using the available urban morphological features. 
 
 ![GAN](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/7aff00ac-d810-4ce8-b014-a3c21b8d9e91)
