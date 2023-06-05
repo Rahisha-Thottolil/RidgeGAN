@@ -11,3 +11,5 @@ First, we apply CityGAN, an unsupervised learning model to generate small and me
 
 Landscape structures of real and generated cities are measured in terms of Human Settlement Indices (HSI) using spatial landscape metrics. 
 ![HSI](https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/8571ed3b-df40-439e-b955-e7b56bb9825c)
+
+<HSI src="https://github.com/Rahisha-Thottolil/RidgeGAN/assets/135572437/8571ed3b-df40-439e-b955-e7b56bb9825c" width="100" height="100">
